@@ -1,0 +1,23 @@
+ÇáÓáÇã Úáíßã
+ÇÎÈÇÑ ÍÖÑÊß íÇÈãåäÏÓ
+ÇÚÒÑäì áã ÇÌÏ ØÑíŞå ØÑíŞå ááÊæÇÕá ÇáÇ ãä ÎáÇá ÇáßÊÇÈå åäÇ 
+........................................................
+ÇäÇ ÔÛÇÇá Úáì IDE
+application >>> apache-netbeans-13-bin-windows-x64
+æáíÓ ßãÇ İì ÇáßæÑÓ Úáì 
+application >>> ideaIC-2022.2.3
+
+........................................................
+áĞáß ÇÚÊŞÏ Çä ÇáÇíÑæÑ äÇÊÌ Úä åĞÇ ÇáÔì 
+İÇäÇ áãÇ ÈÍËÊ Úä ÇáÇíÑæ ÏÇ 
+java: package org.netbeans.lib.awtextra does not exist
+æÌÏÊ Çäå ÈÓÈÈ ÚÏã æÌæÏ ãáİ
+AbsoluteLayout.jar
+İì liberase 
+........................................................
+æÏÇ İÏíæ ÈíæÖÍ ÇÒÇì ÊÖíİå
+https://www.youtube.com/watch?v=B0prYbtdKNI
+https://www.youtube.com/watch?v=w4O8Ok2bCPY
+https://www.youtube.com/watch?v=ocNPrM4qk7o
+
+........................................................
